@@ -117,38 +117,23 @@ class _CartPageState extends State<CartPage> {
               ),
             ),
           ),
-          Expanded(
-            child: Container(
-              height: s.height * 0.2,
-              width: s.width,
-              padding: const EdgeInsets.all(10),
-              decoration: BoxDecoration(
+            Container(
+            height: 50,
+            width: double.infinity,
+            decoration: BoxDecoration(
                 color: Colors.white,
+                borderRadius: BorderRadius.circular(20),
                 boxShadow: const [
                   BoxShadow(
-                    offset: Offset(-3, -3),
-                    color: Colors.grey,
-                    blurRadius: 5,
+                    offset: Offset(3, 3),
+                    blurRadius: 3,
                   )
-                ],
-                borderRadius: BorderRadius.circular(20),
-              ),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: [
-                      const Text(
-                        "Price:",
-                      ),
-                      Text(
-                        "${cart.isEmpty ? 0.00 : totalPrice.toStringAsFixed(2)}",
-                      ),
-                    ],
-                  ),
-                ],
-              ),
+                ]),
+            padding: const EdgeInsets.all(10),
+            margin: const EdgeInsets.all(10),
+            alignment: Alignment.center,
+            child: Text(
+              "TotalPrice: ${cart.isEmpty ? 0.00 : totalPrice.toStringAsFixed(2)}",
             ),
           ),
         ],
