@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/78bbf5b1-1727-41d8-9089-f684f1ab2c2f
 
 ![WhatsApp Image 2024-07-20 at 19 59 30_44494e49](https://github.com/user-attachments/assets/aa8c4173-1513-43eb-b5f5-a19d4b2b6bb4)
 
-![WhatsApp Image 2024-07-20 at 20 00 11_9bdc7705](https://github.com/user-attachments/assets/7ed43442-8a19-4699-bd3b-92d45568f098)
+![WhatsApp Image 2024-07-22 at 11 24 38_b612c960](https://github.com/user-attachments/assets/77048b3b-ff63-4f28-b985-9d92725addb3)
 
 ![WhatsApp Image 2024-07-20 at 20 00 11_9e4f3405](https://github.com/user-attachments/assets/0a88dbdd-052d-4ecb-a7ef-00989bb7c0a4)
 
